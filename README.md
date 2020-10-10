@@ -4,7 +4,7 @@ This personal finance tool will create dbs_analysis.pdf with graph of your net s
 
 Instructions:
 - download your transactions data as Excel file from dbs.com
-- create a folder named 'data' and put your excel file inside
+- create a folder named 'data' inside the main directory and put your excel file inside
 - click 'do_analysis.bat'
 
 *the analysis will run on your PC, so no data is uploaded*
